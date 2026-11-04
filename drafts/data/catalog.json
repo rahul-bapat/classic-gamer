@@ -1,0 +1,88 @@
+{
+  ":names": [
+    "products",
+    "categories"
+  ],
+  ":version": 3,
+  ":type": "multi-sheet",
+  "products": {
+    "total": 5,
+    "offset": 0,
+    "limit": 5,
+    "data": [
+      {
+        "sku": "SO-1000",
+        "name": "Alpine Tent 2P",
+        "category": "tents",
+        "price": "49.00",
+        "salePrice": "39.00",
+        "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+        "inStock": "false",
+        "url": "/drafts/products/so-1000"
+      },
+      {
+        "sku": "SO-1001",
+        "name": "Ridge Sleeping Bag -5C",
+        "category": "sleeping",
+        "price": "86.00",
+        "salePrice": "",
+        "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+        "inStock": "true",
+        "url": "/drafts/products/so-1001"
+      },
+      {
+        "sku": "SO-1002",
+        "name": "Canyon Trail Shoe",
+        "category": "footwear",
+        "price": "123.00",
+        "salePrice": "",
+        "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+        "inStock": "true",
+        "url": "/drafts/products/so-1002"
+      },
+      {
+        "sku": "SO-1003",
+        "name": "Glacier Pack 45L",
+        "category": "packs",
+        "price": "160.00",
+        "salePrice": "126.00",
+        "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+        "inStock": "true",
+        "url": "/drafts/products/so-1003"
+      },
+      {
+        "sku": "SO-1004",
+        "name": "Forest Tent 2P",
+        "category": "tents",
+        "price": "197.00",
+        "salePrice": "",
+        "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+        "inStock": "true",
+        "url": "/drafts/products/so-1004"
+      }
+    ]
+  },
+  "categories": {
+    "total": 4,
+    "offset": 0,
+    "limit": 4,
+    "data": [
+      {
+        "key": "tents",
+        "label": "Tents"
+      },
+      {
+        "key": "sleeping",
+        "label": "Sleeping"
+      },
+      {
+        "key": "footwear",
+        "label": "Footwear"
+      },
+      {
+        "key": "packs",
+        "label": "Packs"
+      }
+    ]
+  }
+}

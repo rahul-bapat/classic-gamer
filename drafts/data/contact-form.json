@@ -1,0 +1,71 @@
+{
+  "total": 7,
+  "offset": 0,
+  "limit": 7,
+  "data": [
+    {
+      "Name": "name",
+      "Type": "text",
+      "Label": "Full name",
+      "Mandatory": "true",
+      "Placeholder": "",
+      "Options": "",
+      "Pattern": ""
+    },
+    {
+      "Name": "email",
+      "Type": "email",
+      "Label": "Email",
+      "Mandatory": "true",
+      "Placeholder": "you@example.com",
+      "Options": "",
+      "Pattern": ""
+    },
+    {
+      "Name": "order",
+      "Type": "text",
+      "Label": "Order number",
+      "Mandatory": "false",
+      "Placeholder": "SO-12345",
+      "Options": "",
+      "Pattern": "SO-\\d{5}"
+    },
+    {
+      "Name": "topic",
+      "Type": "select",
+      "Label": "Topic",
+      "Mandatory": "true",
+      "Placeholder": "Choose one",
+      "Options": "Returns, Warranty, Shipping, Other",
+      "Pattern": ""
+    },
+    {
+      "Name": "message",
+      "Type": "textarea",
+      "Label": "Message",
+      "Mandatory": "true",
+      "Placeholder": "",
+      "Options": "",
+      "Pattern": ""
+    },
+    {
+      "Name": "newsletter",
+      "Type": "checkbox",
+      "Label": "Send me trail news",
+      "Mandatory": "false",
+      "Placeholder": "",
+      "Options": "",
+      "Pattern": ""
+    },
+    {
+      "Name": "submit",
+      "Type": "submit",
+      "Label": "Send",
+      "Mandatory": "",
+      "Placeholder": "",
+      "Options": "",
+      "Pattern": ""
+    }
+  ],
+  ":type": "sheet"
+}

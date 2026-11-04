@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "aem-dev",
+      "runtimeExecutable": "aem",
+      "runtimeArgs": ["up", "--html-folder", "drafts", "--no-open"],
+      "port": 3000
+    }
+  ]
+}

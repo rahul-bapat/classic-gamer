@@ -1,0 +1,24 @@
+{
+  "total": 4,
+  "offset": 0,
+  "limit": 4,
+  "data": [
+    {
+      "Key": "addToCart",
+      "Text": "Add to cart"
+    },
+    {
+      "Key": "outOfStock",
+      "Text": "Out of stock"
+    },
+    {
+      "Key": "readMore",
+      "Text": "Read more"
+    },
+    {
+      "Key": "resultsCount",
+      "Text": "{count} products"
+    }
+  ],
+  ":type": "sheet"
+}

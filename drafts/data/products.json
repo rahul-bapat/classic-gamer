@@ -1,0 +1,238 @@
+{
+  "total": 23,
+  "offset": 0,
+  "limit": 23,
+  "data": [
+    {
+      "sku": "SO-1000",
+      "name": "Alpine Tent 2P",
+      "category": "tents",
+      "price": "49.00",
+      "salePrice": "39.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "false",
+      "url": "/drafts/products/so-1000"
+    },
+    {
+      "sku": "SO-1001",
+      "name": "Ridge Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "86.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1001"
+    },
+    {
+      "sku": "SO-1002",
+      "name": "Canyon Trail Shoe",
+      "category": "footwear",
+      "price": "123.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1002"
+    },
+    {
+      "sku": "SO-1003",
+      "name": "Glacier Pack 45L",
+      "category": "packs",
+      "price": "160.00",
+      "salePrice": "126.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1003"
+    },
+    {
+      "sku": "SO-1004",
+      "name": "Forest Tent 2P",
+      "category": "tents",
+      "price": "197.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1004"
+    },
+    {
+      "sku": "SO-1005",
+      "name": "Alpine Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "234.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "false",
+      "url": "/drafts/products/so-1005"
+    },
+    {
+      "sku": "SO-1006",
+      "name": "Ridge Trail Shoe",
+      "category": "footwear",
+      "price": "271.00",
+      "salePrice": "213.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1006"
+    },
+    {
+      "sku": "SO-1007",
+      "name": "Canyon Pack 45L",
+      "category": "packs",
+      "price": "308.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1007"
+    },
+    {
+      "sku": "SO-1008",
+      "name": "Glacier Tent 2P",
+      "category": "tents",
+      "price": "345.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1008"
+    },
+    {
+      "sku": "SO-1009",
+      "name": "Forest Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "382.00",
+      "salePrice": "300.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1009"
+    },
+    {
+      "sku": "SO-1010",
+      "name": "Alpine Trail Shoe",
+      "category": "footwear",
+      "price": "419.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "false",
+      "url": "/drafts/products/so-1010"
+    },
+    {
+      "sku": "SO-1011",
+      "name": "Ridge Pack 45L",
+      "category": "packs",
+      "price": "56.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1011"
+    },
+    {
+      "sku": "SO-1012",
+      "name": "Canyon Tent 2P",
+      "category": "tents",
+      "price": "93.00",
+      "salePrice": "87.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1012"
+    },
+    {
+      "sku": "SO-1013",
+      "name": "Glacier Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "130.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1013"
+    },
+    {
+      "sku": "SO-1014",
+      "name": "Forest Trail Shoe",
+      "category": "footwear",
+      "price": "167.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1014"
+    },
+    {
+      "sku": "SO-1015",
+      "name": "Alpine Pack 45L",
+      "category": "packs",
+      "price": "204.00",
+      "salePrice": "174.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "false",
+      "url": "/drafts/products/so-1015"
+    },
+    {
+      "sku": "SO-1016",
+      "name": "Ridge Tent 2P",
+      "category": "tents",
+      "price": "241.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1016"
+    },
+    {
+      "sku": "SO-1017",
+      "name": "Canyon Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "278.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1017"
+    },
+    {
+      "sku": "SO-1018",
+      "name": "Glacier Trail Shoe",
+      "category": "footwear",
+      "price": "315.00",
+      "salePrice": "261.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1018"
+    },
+    {
+      "sku": "SO-1019",
+      "name": "Forest Pack 45L",
+      "category": "packs",
+      "price": "352.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1019"
+    },
+    {
+      "sku": "SO-1020",
+      "name": "Alpine Tent 2P",
+      "category": "tents",
+      "price": "389.00",
+      "salePrice": "",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png",
+      "inStock": "false",
+      "url": "/drafts/products/so-1020"
+    },
+    {
+      "sku": "SO-1021",
+      "name": "Ridge Sleeping Bag -5C",
+      "category": "sleeping",
+      "price": "426.00",
+      "salePrice": "48.00",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg",
+      "inStock": "true",
+      "url": "/drafts/products/so-1021"
+    },
+    {
+      "sku": "SO-1022",
+      "name": "Canyon Trail Shoe",
+      "category": "footwear",
+      "price": "63.00",
+      "salePrice": "",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png",
+      "inStock": "true",
+      "url": "/drafts/products/so-1022"
+    }
+  ],
+  ":type": "sheet"
+}

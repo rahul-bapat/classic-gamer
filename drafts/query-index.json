@@ -1,0 +1,62 @@
+{
+  "total": 6,
+  "offset": 0,
+  "limit": 6,
+  "data": [
+    {
+      "path": "/drafts/blog/tent-guide",
+      "title": "How to pick your first tent",
+      "description": "Read: How to pick your first tent",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png?width=1200&format=pjpg&optimize=medium",
+      "tags": "[\"Tents\",\"Beginners\"]",
+      "date": "2026-05-12",
+      "lastModified": "1761900000"
+    },
+    {
+      "path": "/drafts/blog/layering-101",
+      "title": "Layering 101",
+      "description": "Read: Layering 101",
+      "image": "/media_143cf1a441962c90f082d4f7dba2aeefb07f4e821.png?width=1200&format=pjpg&optimize=medium",
+      "tags": "[\"Clothing\",\"Beginners\"]",
+      "date": "46160",
+      "lastModified": "1761900000"
+    },
+    {
+      "path": "/drafts/blog/night-hikes",
+      "title": "Night hiking safely",
+      "description": "Read: Night hiking safely",
+      "image": "/media_180455b829a1e29ac2451440ba27ebd9692d285ab.jpg?width=1200&format=pjpg&optimize=medium",
+      "tags": "[\"Safety\"]",
+      "date": "2026-09-30",
+      "lastModified": "1761900000"
+    },
+    {
+      "path": "/drafts/blog/winter-camping",
+      "title": "Winter camping checklist",
+      "description": "Read: Winter camping checklist",
+      "image": "/media_15fdf30f54d7afe1b11ca02b1b6623d40e973f092.png?width=1200&format=pjpg&optimize=medium",
+      "tags": "[\"Tents\",\"Safety\"]",
+      "date": "2026-10-18",
+      "lastModified": "1761900000"
+    },
+    {
+      "path": "/drafts/m09-products",
+      "title": "Products",
+      "description": "Not an article",
+      "image": "",
+      "tags": "[]",
+      "date": "",
+      "lastModified": "1761900000"
+    },
+    {
+      "path": "/drafts/blog/draft-unpublished",
+      "title": "",
+      "description": "",
+      "image": "",
+      "tags": "",
+      "date": "",
+      "lastModified": "1761900000"
+    }
+  ],
+  ":type": "sheet"
+}
